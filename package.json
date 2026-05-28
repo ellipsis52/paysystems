@@ -1,0 +1,15 @@
+{
+  "name": "@paysystems/sdk",
+  "version": "1.0.0",
+  "description": "Official PaySystems SDK",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [
+    "paysystems",
+    "payments",
+    "sdk",
+    "api"
+  ],
+  "author": "PaySystems",
+  "license": "MIT"
+}
